@@ -1,0 +1,15 @@
+/Users/aosck/code_practice/MyFirstLang/bin/Debug/net8.0/MyFirstLang
+/Users/aosck/code_practice/MyFirstLang/bin/Debug/net8.0/MyFirstLang.deps.json
+/Users/aosck/code_practice/MyFirstLang/bin/Debug/net8.0/MyFirstLang.runtimeconfig.json
+/Users/aosck/code_practice/MyFirstLang/bin/Debug/net8.0/MyFirstLang.dll
+/Users/aosck/code_practice/MyFirstLang/bin/Debug/net8.0/MyFirstLang.pdb
+/Users/aosck/code_practice/MyFirstLang/obj/Debug/net8.0/MyFirstLang.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aosck/code_practice/MyFirstLang/obj/Debug/net8.0/MyFirstLang.AssemblyInfoInputs.cache
+/Users/aosck/code_practice/MyFirstLang/obj/Debug/net8.0/MyFirstLang.AssemblyInfo.cs
+/Users/aosck/code_practice/MyFirstLang/obj/Debug/net8.0/MyFirstLang.csproj.CoreCompileInputs.cache
+/Users/aosck/code_practice/MyFirstLang/obj/Debug/net8.0/MyFirstLang.sourcelink.json
+/Users/aosck/code_practice/MyFirstLang/obj/Debug/net8.0/MyFirstLang.dll
+/Users/aosck/code_practice/MyFirstLang/obj/Debug/net8.0/refint/MyFirstLang.dll
+/Users/aosck/code_practice/MyFirstLang/obj/Debug/net8.0/MyFirstLang.pdb
+/Users/aosck/code_practice/MyFirstLang/obj/Debug/net8.0/MyFirstLang.genruntimeconfig.cache
+/Users/aosck/code_practice/MyFirstLang/obj/Debug/net8.0/ref/MyFirstLang.dll
